@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**p3rception/p3rception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const dimitris = {
+  bio: {
+    location: 'Athens, Greece',
+    nick: 'P3Rception',
+    studies: [ 'Business Administration', 'Computer Science' ]
+  },
+  interests: [ 'Cybersecurity', 'Web development', 'Graphic Design' ],
+  skills: {
+    languages: [ 'Java', 'C#', 'Python', 'JavaScript', 'Bash' ],
+    frameworks: [ 'Spring', '.NET', 'Django', 'Angular', 'Express.js' ],
+    libraries: [ 'React', 'Vue.js', 'jQuery', 'Bootstrap' ],
+    databases: [ 'MySQL', 'MongoDB' ],
+    design: [ 'Photoshop', 'Illustrator', 'Figma' ],
+    others: [ 'Docker', 'Git', 'LaTeX', 'Linux', 'Burp Suite', 'Virtual Machines' ]
+  }
+}
+```
