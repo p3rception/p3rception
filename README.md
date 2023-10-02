@@ -10,7 +10,7 @@ const dimitris = {
     languages: [ 'Java', 'C#', 'Python', 'JavaScript', 'Bash' ],
     frameworks: [ 'Spring', '.NET', 'Django', 'Angular', 'Express.js' ],
     libraries: [ 'React', 'Vue.js', 'jQuery', 'Bootstrap' ],
-    databases: [ 'MySQL', 'MongoDB' ],
+    databases: [ 'MySQL', 'MariaDB', 'MongoDB' ],
     design: [ 'Photoshop', 'Illustrator', 'Figma' ],
     others: [ 'Docker', 'Git', 'LaTeX', 'Linux', 'Burp Suite', 'Virtual Machines' ]
   }
