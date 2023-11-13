@@ -3,7 +3,7 @@ const dimitris = {
   bio: {
     location: 'Athens, Greece',
     nick: 'p3rception',
-    studies: [ 'Business Administration', 'Computer Science' ]
+    studies: [ 'Business Administration', 'Software Development' ]
   },
   interests: [ 'Cybersecurity', 'Web development', 'Graphic Design' ],
   skills: {
