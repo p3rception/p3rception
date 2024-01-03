@@ -2,17 +2,17 @@
 const dimitris = {
   bio: {
     location: 'Athens, Greece',
-    nick: 'p3rception',
+    nickname: 'p3rception',
     studies: [ 'Business Administration', 'Software Development' ]
   },
-  interests: [ 'Cybersecurity', 'Web development', 'Graphic Design' ],
+  interests: [ 'Cybersecurity', 'Graphic Design' ],
   skills: {
     languages: [ 'Java', 'C#', 'Python', 'JavaScript', 'Bash' ],
-    frameworks: [ 'Spring', '.NET', 'Django', 'Angular', 'Express.js' ],
-    libraries: [ 'React', 'Vue.js', 'jQuery', 'Bootstrap' ],
-    databases: [ 'MySQL', 'NoSQL' ],
+    frameworks: [ 'Spring', '.NET', 'Django' ],
+    libraries: [ 'React', 'Vue.js', 'Bootstrap' ],
+    databases: [ 'MySQL', 'PostgreSQL', 'MongoDB', 'Firebase' ],
     design: [ 'Photoshop', 'Illustrator', 'Figma' ],
-    others: [ 'Docker', 'Git', 'LaTeX', 'Linux', 'Burp Suite', 'Virtual Machines' ]
+    others: [ 'Docker', 'Git', 'LaTeX', 'Unix', 'Burp Suite', 'Wireshark', 'Virtual Machines' ]
   }
 }
 ```
