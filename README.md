@@ -9,6 +9,6 @@
 
 <hr>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=p3rception&color=blue" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=p3rception&color=8d45c0&label=Visitors" alt="Profile Views Counter">
 </div>
 
