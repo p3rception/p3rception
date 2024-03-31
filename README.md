@@ -1,4 +1,4 @@
-![](p3rception.png)
+![](assets/p3rception.png)
 
 <div align="center">
 
@@ -9,6 +9,8 @@
 
 <hr>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=p3rception&color=8d45c0&label=Visitors" alt="Profile Views Counter">
+  <img src="assets/imposter.gif" alt="imposter" width="100"><br>
+  <img src="https://komarev.com/ghpvc/?username=p3rception&color=5B19B2&label=Visitors" alt="Profile Views Counter">
+  
 </div>
 
