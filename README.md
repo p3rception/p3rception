@@ -1,4 +1,4 @@
-![](assets/p3rception.png)
+<img src="assets/p3rception.png" alt="bio" width="80%">
 
 <div align="center">
 
